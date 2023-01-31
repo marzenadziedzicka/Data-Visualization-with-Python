@@ -8,3 +8,11 @@
     	df.iloc[index]   # filters by the positions of the index/column
 * Area Plots, Histograms, and Bar Plots - read_excel,head, index.map, shape, drop, rename, sum, list, plot(area, hist, bar, barh), np.histogram(#to get bin edges for hist), plt.annotate, sort_values, enumerate, transpose
 * Generating Maps with Python - Maps with folium, markers, choropleth, FeaureGroup, add_child, CircleMarker, Marker, MarkerCluster, np.linspace, tolist [DV0101EN-Exercise-Generating-Maps-in-Python.jupyterlite.ipynb]
+
+
+* Plotly Dash App - Airline Performance- create a web app, html and core components, Input/Output, plotly express, graph objects, Divisions, Dropdown, plots, state, bar, line, pie, choropleth (map, update_layout), tree, else statement
+* dash_basics - dash online application with graph and buttons, ploty express (pie), html and core components
+* dash_interactivity - dash online application with I/O, Graph, Callback and line plot, html and core components
+* dash_layout - dash online application with I/O, Graph, Dropdown, bar plot, html and core components
+* flight_details -  dash online application with interactive I/O, graphs, divisions, python express, line plot, html and core components
+* space_dash_app -  Dropdown, Graph, RangeSlider, Callback , def, if/else, ploty express (pie, scatter), html and core components
