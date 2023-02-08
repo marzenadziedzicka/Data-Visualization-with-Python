@@ -15,4 +15,4 @@
 * dash_interactivity - dash online application with I/O, Graph, Callback and line plot, html and core components
 * dash_layout - dash online application with I/O, Graph, Dropdown, bar plot, html and core components
 * flight_details -  dash online application with interactive I/O, graphs, divisions, python express, line plot, html and core components
-* space_dash_app -  Dropdown, Graph, RangeSlider, Callback , def, if/else, ploty express (pie, scatter), html and core components
+* spacex_dash_app -  Dropdown, Graph, RangeSlider, Callback , def, if/else, ploty express (pie, scatter), html and core components
